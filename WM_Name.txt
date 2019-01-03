@@ -1,0 +1,2 @@
+Win_SRV_2008R2
+SAMBA
